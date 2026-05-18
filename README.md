@@ -118,6 +118,7 @@ Visit our comprehensive, searchable database of 3D Gaussian Splatting papers:
 - [camorph](https://github.com/Fraunhofer-IIS/camorph) - Camera parameter conversion
 - [SuperSplat](https://github.com/playcanvas/supersplat) - Browser-based 3DGS editor
 - [Awesome Gaussian Skills](https://github.com/jaccen/Awesome-Gaussian-Skills) - 516+ 3DGS methods knowledge base & 10 AI Agent skills for paper reading, code review, experiment design, and NeRF-to-3DGS migration
+  
 ## Learning Resources
 
 ### Blog Posts
