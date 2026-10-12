@@ -55,6 +55,7 @@ Visit our comprehensive, searchable database of 3D Gaussian Splatting papers:
 - [GauStudio](https://github.com/GAP-LAB-CUHK-SZ/gaustudio) - Unified framework with multiple implementations
 - [DriveStudio](https://github.com/ziyc/drivestudio) - Urban scene reconstruction framework
 - [GSCodecStudio](https://github.com/JasonLSC/GSCodec_Studio) - Compression and Dynamic splattings
+- [Awesome Gaussian Skills](https://github.com/jaccen/Awesome-Gaussian-Skills) - AI agent skills + MCP server for 3DGS research: 896-method catalog, 15 skills (paper reader, method compare, experiment planner, code reviewer, training debugger, visualizer), and a stdio MCP server for agent-driven 3DGS rendering
 
 ## Viewers & Game Engine Support
 
